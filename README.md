@@ -1,2 +1,8 @@
 # DataPT06---POI-01---JaredLuna
-Proyecto individual 01 de Henry
+
+Jared Augusto Luna León
+DataScience DataPT06
+
+Este es el repositorio del primer proyecto individual de Henrey.
+
+
